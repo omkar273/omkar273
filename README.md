@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omkar273
-- 👀I have been a Software Developer for over 1 year and currently pursuing computer engineering .
+- 👀I have been a Software Developer for over 2 year and currently pursuing computer engineering .
 
 - 🌱 I am skilled in Java, C , C++ , Python, Dart etc .I have worked with both web-based, multi-threaded applications as well as front-end development using the latest          web technologies. I am a specialist in developing android as well as iOS applications with solid test automation strategies .
 
