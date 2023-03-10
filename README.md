@@ -1,7 +1,7 @@
 - # Hi, I’m Omkar273
 
 👀 I'm omkar full stack developer and fellow engineering student building my version of digital world one step at a time . All the projects I develop are build from complete scratch from planning and designing all the way to solving real life problems
-- I’m looking to collaborate on projects based on app development
+- I’m looking forward to collaborate on projects based on app development
       
 
 ![Profile views](https://gpvc.arturio.dev/omkar273)  <img src="https://img.shields.io/github/followers/omkar273?label=Follow" style=" float:left, margin-right:10px" />
