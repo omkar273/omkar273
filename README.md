@@ -38,8 +38,8 @@
 
 ##  Let's connect :speech_balloon:
 - linkedIn : https://www.linkedin.com/in/omkar-sonawane-23b094230/
-- email: omkarsonawane622@gail.com
-- Twitter
+- email: omkarsonawane622@gmail.com
+- Twitter  : https://twitter.com/Omkar1409
 <!-- 
 
 [![Twitter Badge](https://img.shields.io/badge/-@omkar1409style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/omkar1409://twitter.com/omkar1409)]
