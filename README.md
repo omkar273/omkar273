@@ -67,4 +67,4 @@ Check for a detailed stats here :point_right: [Omkar273](https://omkar273.io/omk
 <img src="https://github-readme-stats.vercel.app/api?username=omkar273&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 
 
-⭐️ From [Neel](https://github.com/Neel2904)
+⭐️ From [Omkar](https://github.com/Omkar273)
