@@ -1,12 +1,70 @@
-- 👋 Hi, I’m @omkar273
-- 👀I have been a Software Developer for over 2 year and currently pursuing computer engineering .
+- # Hi, I’m Omkar273
 
-- 🌱 I am skilled in Java, C , C++ , Python, Dart etc .I have worked with both web-based, multi-threaded applications as well as front-end development using the latest          web technologies. I am a specialist in developing android as well as iOS applications with solid test automation strategies .
-
-
-- 💞️ In the past, I have worked on multiple fullStack projects . In addition, I have extensive experience with C++.In addition to my skills in coding, I am a great             problem solver and Team Leader
-      I’m looking to collaborate on projects based on app development
+👀 I'm omkar full stack developer and fellow engineering student building my version of digital world one step at a time . All the projects i develop are build from ground up , from planning and designing all the way to solving real life problems
+- I’m looking to collaborate on projects based on app development
       
-- 📫 you can connect to me using my email : omkarsonawane622@gmail.com
-      or using my linkedin https://www.linkedin.com/in/omkar-sonawane-23b094230
 
+![Profile views](https://gpvc.arturio.dev/omkar273)  <img src="https://img.shields.io/github/followers/omkar273?label=Follow" style=" float:left, margin-right:10px" />
+
+
+---
+
+
+### Tech & Tools Preference
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+
+### Other Languages I know
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+
+---
+
+##  Let's connect :speech_balloon:
+- linkedIn : https://www.linkedin.com/in/omkar-sonawane-23b094230/
+- email: omkarsonawane622@gail.com
+- Twitter
+<!-- 
+
+[![Twitter Badge](https://img.shields.io/badge/-@omkar1409style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/omkar1409://twitter.com/omkar1409)]
+[![Linkedin Badge](https://img.shields.io/badge/-Neel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gorasiyaneel/)](https://www.linkedin.com/in/gorasiyaneel/)
+[![Gmail Badge](https://img.shields.io/badge/-omkarsonawane622@gmail.comlat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:mgorasiya1974@gmail.com)
+ -->
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=omkar273&show_icons=true&hide_border=true)
+
+Check for a detailed stats here :point_right: [Omkar273](https://omkar273.io/omkar273)
+
+---
+
+
+**Check the Repositories and don't forget to give a star.** 👇
+
+:star: From [omkar273](https://github.com/omkar273)
+
+<a href="https://github.com/Neel2904">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar273&theme=radical&hide=glsl,python" />
+</a>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=omkar273&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+
+
+⭐️ From [Neel](https://github.com/Neel2904)
