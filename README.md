@@ -1,6 +1,6 @@
 - # Hi, I’m Omkar273
 
-👀 I'm omkar full stack developer and fellow engineering student building my version of digital world one step at a time . All the projects I develop are build from complete scratch from planning and designing all the way to solving real life problems
+👀 I'm omkar full stack app and web developer and fellow engineering student building my version of digital world one step at a time . All the projects I develop are build from complete scratch from planning and designing all the way to solving real life problems
 - I’m looking forward to collaborate on projects based on app development
       
 
