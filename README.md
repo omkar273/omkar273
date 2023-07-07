@@ -63,7 +63,7 @@ Check for a detailed stats here :point_right: [Omkar273](https://omkar273.io/omk
 
 :star: From [omkar273](https://github.com/omkar273)
 
-<a href="https://github.com/Neel2904">
+<a href="https://github.com/omkar273">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar273&theme=radical&hide=glsl,python" />
 </a>
 
