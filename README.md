@@ -6,6 +6,7 @@
 
 [![Follow on GitHub](https://img.shields.io/github/followers/omkar273?label=Follow&style=social)](https://github.com/omkar273)
 [![Profile Views](https://komarev.com/ghpvc/?username=omkar273&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/omkar273)
+[![An image of @omkar273's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hiteshshimpi55)](https://holopin.io/@omkar273)
 
 </div>
 
