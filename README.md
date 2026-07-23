@@ -17,7 +17,7 @@
 ```typescript
 const omkar = {
 	pronouns: 'he' | 'him',
-	role: 'Founding Engineer at FlexPrice',
+	role: 'Founding Engineer at Flexprice',
 	location: 'Bangalore, India',
 	code: ['Go', 'TypeScript', 'JavaScript', 'Python', 'Java'],
 	askMeAbout: ['usage-based billing', 'clean architecture', 'multi-tenant systems', 'event-driven design'],
@@ -34,9 +34,9 @@ const omkar = {
 };
 ```
 
-💡 **Currently working on:** FlexPrice - Open-source usage-based billing platform  
+💡 **Currently working on:** Flexprice - Open-source usage-based billing platform  
 🌱 **Learning:** Advanced event-driven architecture, payment orchestration, and multi-tenant systems  
-🎯 **2024 Goals:** Scale FlexPrice to production, contribute to open source, master payment systems
+🎯 **2024 Goals:** Scale Flexprice to production, contribute to open source, master payment systems
 
 ---
 
@@ -142,7 +142,7 @@ const omkar = {
 ### 🔗 **Explore My Work**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkar273)
-[![FlexPrice](https://img.shields.io/badge/FlexPrice-FF6B35?style=for-the-badge&logo=stripe&logoColor=white)](https://github.com/omkar273)
+[![Flexprice](https://img.shields.io/badge/FlexPrice-FF6B35?style=for-the-badge&logo=stripe&logoColor=white)](https://github.com/omkar273)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/omkar273)
 
 </div>
