@@ -1,0 +1,38 @@
+name: Generate contribution snake
+
+# Uses Platane/snk, which runs entirely inside this repo's own Actions
+# runner and pushes the output SVGs to the `output` branch here — it is
+# not a call to an external hosted service, so it doesn't carry the same
+# "someone else's server is down" risk as embedding an image from a
+# third-party domain.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: omkar273
+          outputs: |
+            assets/snake.svg
+            assets/snake-dark.svg?palette=github-dark
+            assets/snake-light.svg?palette=github-light
+
+      - name: Push output to a dedicated branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
